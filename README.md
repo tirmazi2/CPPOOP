@@ -1,6 +1,4 @@
-# CPPOOP
-FYP Automation System
-
+# FYP Automation System
 Final year project (FYP) is a core requirement of any degree program. Hence, it is important to understand the key concepts and activities involved in the automation of a FYP process. This may help to enhance the communication and contribution towards the assigned activities to the students and monitoring of the FYP tasks by the instructors as well. For this semester project, students are required to develop an Automated FYP System. 
 The stakeholders directly involved with the proposed system include:
  1) Project coordinator/administrator
